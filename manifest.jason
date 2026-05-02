@@ -1,0 +1,21 @@
+{
+  "name": "Adde Bedfa3",
+  "short_name": "Adde Bedfa3",
+  "description": "Your personal money tracker",
+  "start_url": "/adde-bedfa3/",
+  "display": "standalone",
+  "background_color": "#0e0e0e",
+  "theme_color": "#0e0e0e",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
